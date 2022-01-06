@@ -1,0 +1,16 @@
+{
+    "users":[
+        {"id": 1, "name": "Leonardo Rojas", "username": "Lrojas", "email": "yeferrojas@hotmail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+        {"id": 2, "name": "usuario 2", "username": "usu2", "email": "admin@mail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+        {"id": 3, "name": "usuario 3", "username": "usu3", "email": "mail@mail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"}
+    ],
+    "posts":[
+        {"id": 1, "title": "Post 1", "body": "este es el post 1 bien hecho", "userId": 1},
+        {"id": 2, "title": "Post 2", "body": "este es el post 2 bien", "userId": 1},
+        {"id": 3, "title": "Post 3", "body": "este es el post 3 hecho", "userId": 2}
+    ],
+    "comments":[
+        {"id": 1, "body": "some comment", "postId": 1},
+        {"id": 2, "body": "some comment", "postId": 1}
+    ]
+}
